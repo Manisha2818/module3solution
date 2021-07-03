@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: 2em;
+}
+.nav-item{
+    text-align: center;
+    color: black;
+}
+.Chicken{
+    background-color: grey;
+    text-align: center;
+    border: 2px solid black;
+    margin: 2px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
